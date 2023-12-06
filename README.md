@@ -11,6 +11,7 @@
   /*           	                                                                       */ 
   /* ********************************************************************************* */
 ```
+[![yozainan's 42 stats](https://badge.mediaplus.ma/starryblue/yozainan)](https://github.com/oakoudad/badge42)
 ---
 
 <h1 align="center">
