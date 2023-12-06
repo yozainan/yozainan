@@ -1,17 +1,16 @@
-```
-  /* ********************************************************************************* */
-  /*                                                                                   */
-  /*                                  	      :::   ::::::::   ::::::::  :::::::::::   */ 
-  /*                                        :+:+:  :+:    :+: :+:    :+: :+:     :+:   */ 
-  /*                                           +:+         +:+        +:+        +:+   */ 
-  /* By: yozainan                              +#+      +#++:      +#++:        +#+    */ 
-  /*                                           +#+         +#+        +#+      +#+     */ 
-  /* Created: 0000/00/00 by yozainan           #+#  #+#    #+# #+#    #+#     #+#      */ 
-  /* Updated: 0000/00/00 by yozainan         ####### ########   ########      ###.ma   */ 
-  /*           	                                                                       */ 
-  /* ********************************************************************************* */
-```
-   [![yozainan's 42 stats](https://badge.mediaplus.ma/starryblue/yozainan)](https://github.com/oakoudad/badge42)
+</p>
+<p align="center">  
+<img src ="https://cdn.dribbble.com/users/2495095/screenshots/6022014/media/bde6ebc855e312547d5f791f427de779.gif">
+</p>
+
+## root:~$ whoami
+>  Software engineer student at [1337](https://1337.ma/en/) \
+>  “Don’t wait for things to happen. Make them happen.” - Roy Bennett 
+
+
+<p align="center">
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/black/yozainan" alt="yozainan's 42 stats" /></a>
+</p>
 ---
 
 <h1 align="center">
