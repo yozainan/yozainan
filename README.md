@@ -8,8 +8,9 @@
 >  “Don’t wait for things to happen. Make them happen.” - Roy Bennett 
 
 
+
 <p align="center">
-[yozainan's 42 stats(https://badge.mediaplus.ma/greenbinary/<yozainan>)](https://github.com/oakoudad/badge42)
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/yozainan" alt="yozainan's 42 stats" /></a>
 </p>
 ---
 
