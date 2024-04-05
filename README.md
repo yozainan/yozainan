@@ -11,6 +11,7 @@
 <p align="center">
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/yozainan" alt="yozainan's 42 stats" /></a>
 </p>
+---
 
 <h1 align="center">
 	1337
