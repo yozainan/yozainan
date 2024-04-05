@@ -9,7 +9,7 @@
 
 
 <p align="center">
-[![yozainan's 42 stats](https://badge.mediaplus.ma/greenbinary/<yozainan>)](https://github.com/oakoudad/badge42)
+[yozainan's 42 stats(https://badge.mediaplus.ma/greenbinary/<yozainan>)](https://github.com/oakoudad/badge42)
 </p>
 ---
 
